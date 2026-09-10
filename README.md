@@ -200,7 +200,7 @@ ipython
 
 ## 👨‍💻 Author
 
-**Abhinav Thakur**
+**Abhinav Kumar**
 
 ## 📄 License
 
